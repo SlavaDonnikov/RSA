@@ -1,0 +1,24 @@
+C:\Users\UserPC\Desktop\RSA\RSA\bin\Debug\RSA.exe.config
+C:\Users\UserPC\Desktop\RSA\RSA\bin\Debug\RSA.exe
+C:\Users\UserPC\Desktop\RSA\RSA\bin\Debug\RSA.pdb
+C:\Users\UserPC\Desktop\RSA\RSA\bin\Debug\System.ValueTuple.dll
+C:\Users\UserPC\Desktop\RSA\RSA\bin\Debug\System.ValueTuple.xml
+C:\Users\UserPC\Desktop\RSA\RSA\obj\Debug\RSA.csprojResolveAssemblyReference.cache
+C:\Users\UserPC\Desktop\RSA\RSA\obj\Debug\RSA.Properties.Resources.resources
+C:\Users\UserPC\Desktop\RSA\RSA\obj\Debug\RSA.csproj.GenerateResource.Cache
+C:\Users\UserPC\Desktop\RSA\RSA\obj\Debug\RSA.csproj.CoreCompileInputs.cache
+C:\Users\UserPC\Desktop\RSA\RSA\obj\Debug\RSA.exe
+C:\Users\UserPC\Desktop\RSA\RSA\obj\Debug\RSA.pdb
+C:\Users\UserPC\Desktop\RSA\RSA\obj\Debug\RSA.Form1.resources
+E:\ЗКИ\RSA v.2\RSA\RSA\obj\Debug\RSA.csprojResolveAssemblyReference.cache
+E:\ЗКИ\RSA v.2\RSA\RSA\obj\Debug\RSA.Form1.resources
+E:\ЗКИ\RSA v.2\RSA\RSA\obj\Debug\RSA.Properties.Resources.resources
+E:\ЗКИ\RSA v.2\RSA\RSA\obj\Debug\RSA.csproj.GenerateResource.Cache
+E:\ЗКИ\RSA v.2\RSA\RSA\obj\Debug\RSA.csproj.CoreCompileInputs.cache
+E:\ЗКИ\RSA v.2\RSA\RSA\obj\Debug\RSA.exe
+E:\ЗКИ\RSA v.2\RSA\RSA\obj\Debug\RSA.pdb
+E:\ЗКИ\RSA v.2\RSA\RSA\bin\Debug\RSA.exe.config
+E:\ЗКИ\RSA v.2\RSA\RSA\bin\Debug\RSA.exe
+E:\ЗКИ\RSA v.2\RSA\RSA\bin\Debug\RSA.pdb
+E:\ЗКИ\RSA v.2\RSA\RSA\bin\Debug\System.ValueTuple.dll
+E:\ЗКИ\RSA v.2\RSA\RSA\bin\Debug\System.ValueTuple.xml
